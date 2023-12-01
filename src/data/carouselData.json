@@ -1,0 +1,20 @@
+{
+    "slides":[
+        {
+        "src": "https://picsum.photos/seed/img1/800/400",
+        "alt": "image 1 for carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img2/800/400",
+            "alt": "image 2 for carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img3/800/400",
+            "alt": "image 3 for carousel"
+        },
+        {
+            "src": "https://picsum.photos/seed/img4/800/400",
+            "alt": "image 4 for carousel"
+        }
+    ]
+}
