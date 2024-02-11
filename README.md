@@ -1,4 +1,4 @@
-# Image-Carouset-By-React
+# Image-Carousel-By-React
 This was the YouTube guided project: https://www.youtube.com/watch?v=QpsGo8kZiTo&list=TLPQMjkxMTIwMjPKNMAj5Bhfgg&index=3
 
 # The things I have learned are:
